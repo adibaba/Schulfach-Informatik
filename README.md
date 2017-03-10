@@ -1,14 +1,11 @@
 # Linkliste zum Schulfach Informatik: Lehrpläne und Kontext
 
 Zur Recherche für Studierende der Informatikdidaktik an der Universität Paderborn  
-https://cs.uni-paderborn.de/ddi/
-
-Eigene Änderungen und Anpassungen sind per Fork möglich  
-https://help.github.com/articles/forking-and-cloning-gists/
+<https://cs.uni-paderborn.de/ddi/>
 
 ## Lehrpläne Informatik (Auswahl)
 
-* Bayern: http://www.lehrplanplus.bayern.de/fach?fach=informatik
+* Bayern: <http://www.lehrplanplus.bayern.de/fach?fach=informatik>
 * Bayern -> Mittelschule -> Fachprofil -> [PDF](https://www.isb.bayern.de/download/13328/01lp_inf_fp_r.pdf)
 * Bayern -> Mittelschule -> Grundwissen -> [PDF](https://www.isb.bayern.de/download/13334/04lp_inf_gw_r.pdf)
 * Bayern -> Mittelschule -> Jgst. 8 -> [PDF](https://www.isb.bayern.de/download/13330/02lp_inf_8_r.pdf)
@@ -22,17 +19,17 @@ https://help.github.com/articles/forking-and-cloning-gists/
 
 ## Lehrpläne Länder (Auswahl)
 
-* Bayern: https://www.isb.bayern.de/
-* Bayern: http://www.lehrplanplus.bayern.de/
-* Bayern, Mittelschule: https://www.isb.bayern.de/mittelschule/lehrplan/mittelschule/
-* Bayern, Gymnasium: https://www.isb.bayern.de/gymnasium/lehrplan/gymnasium/
-* Sachsen: http://www.schule.sachsen.de/lpdb/
+* Bayern: <https://www.isb.bayern.de/>
+* Bayern: <http://www.lehrplanplus.bayern.de/>
+* Bayern, Mittelschule: <https://www.isb.bayern.de/mittelschule/lehrplan/mittelschule/>
+* Bayern, Gymnasium: <https://www.isb.bayern.de/gymnasium/lehrplan/gymnasium/>
+* Sachsen: <http://www.schule.sachsen.de/lpdb/>
 
 ## Lehrpläne Bundesweit
 
-* KMK: https://www.kmk.org/dokumentation-und-statistik/rechtsvorschriften-lehrplaene/
-* Bildungsserver: http://www.bildungsserver.de/Bildungsplaene-Lehrplaene-Richtlinien-4157.html
-* Wikipedia: https://de.wikipedia.org/wiki/Lehrplan
+* KMK: <https://www.kmk.org/dokumentation-und-statistik/rechtsvorschriften-lehrplaene/>
+* Bildungsserver: <http://www.bildungsserver.de/Bildungsplaene-Lehrplaene-Richtlinien-4157.html>
+* Wikipedia: <https://de.wikipedia.org/wiki/Lehrplan>
 
 ## Im Kontext
 
@@ -42,5 +39,12 @@ https://help.github.com/articles/forking-and-cloning-gists/
 * Gesellschaft für Informatik (__GI__): __Bildungsstandards Informatik für die Sekundarstufe I__ (24. Januar 2008) -> [PDF](https://www.gi.de/fileadmin/redaktion/empfehlungen/Bildungsstandards_2008.pdf) -> [Web](http://www.informatikstandards.de/index.htm?section=standards)
 * __GI__-Dagstuhl Seminar: Dagstuhl-Erklärung: __Bildung in der digitalen vernetzten Welt__ (Februar 2016) -> [Web](https://www.gi.de/aktuelles/meldungen/detailansicht/article/dagstuhl-erklaerung-bildung-in-der-digitalen-vernetzten-welt.html) -> [PDF](https://www.gi.de/fileadmin/redaktion/Themen/dagstuhl-erklaerung-bildung-in-der-digitalen-welt-2016.pdf)
 *  __GI__-Fachausschuss Informatische Bildung in Schulen: __Empfehlungen für ein Gesamtkonzept zur informatischen Bildung an allgemein bildenden Schulen__ (September 2000) -> [PDF](https://www.gi.de/fileadmin/redaktion/empfehlungen/gesamtkonzept_26_9_2000.pdf)
-* GI Empfehlungen: https://www.gi.de/service/publikationen/empfehlungen.html
-* Wiki der GI-Fachgruppe Didaktik der Informatik: https://wiki.informatikdidaktik.de/
+* GI Empfehlungen: <https://www.gi.de/service/publikationen/empfehlungen.html>
+* Wiki der GI-Fachgruppe Didaktik der Informatik: <https://wiki.informatikdidaktik.de/>
+
+## Erweiterungen
+
+Eigene Änderungen und Anpassungen sind hier per Fork möglich:  
+<https://gist.github.com/adibaba/0f8eb7aecf95c8ec3fb0d1808735c475>  
+<https://github.com/adibaba/Schulfach-Informatik>  
+<https://adibaba.github.io/Schulfach-Informatik/>

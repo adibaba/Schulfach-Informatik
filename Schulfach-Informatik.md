@@ -1,5 +1,11 @@
 # Linkliste zum Schulfach Informatik: Lehrpläne und Kontext
 
+Zur Recherche für Studierende der Informatikdidaktik an der Universität Paderborn  
+https://cs.uni-paderborn.de/ddi/
+
+Eigene Änderungen und Anpassungen sind per Fork möglich  
+https://help.github.com/articles/forking-and-cloning-gists/
+
 ## Lehrpläne Informatik
 
 * Bayern: http://www.lehrplanplus.bayern.de/fach?fach=informatik
